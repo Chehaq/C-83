@@ -1,0 +1,15 @@
+.body_background {
+    background-position: center;
+    background-size: cover;
+    font-family: 'Patrick Hand';
+  }
+  
+  #myCanvas {
+    border-width: 10px;
+    background-color: #FFFDE7;
+    border-style: ridge;
+  }
+  
+  span {
+    font-size: 20px;
+  }
